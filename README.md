@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+um sistema criado para representar uma loja de calçados online.
 
 ## Getting Started
 
